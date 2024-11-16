@@ -43,4 +43,4 @@ Then work on the popped window.
 
 This program utilizes Windows web view feature.
 
-Preview: https://cloudy-sfu.github.io/Free-dictionary-API
+Preview: https://cloudy-sfu.github.io/Free-dictionary-GUI
